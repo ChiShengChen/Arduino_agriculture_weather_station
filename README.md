@@ -1,5 +1,6 @@
 # Arduino_agriculture_weather_station
-## Bugs: Self make IRbugcan  <br>
+## Bugs can: Self make IRbugcan  <br>
+'''pin: '''
 ## UV: Grove UV sensor  <br>
 ## Temperature、Humidity、Barometer: Grove BME280  <br>
 ## Rain: ANY Tilt rain gauge  <br>
