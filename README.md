@@ -1,12 +1,12 @@
 # Arduino_agriculture_weather_station
 ## Bugs can: Self make IRbugcan  <br>
-  pins(第二組): <br>
-  5V  <br>
-  Can1: D5、D6、D7  <br>
-  Can2: D8、D9、D10  <br>
-  Can3: D11、D12、D13  <br>
-  ---
-  blue LED --> 12V  <br>
+   pins(第二組): <br>
+   5V  <br>
+   Can1: D5、D6、D7  <br>
+   Can2: D8、D9、D10  <br>
+   Can3: D11、D12、D13  <br>
+   ---
+   blue LED --> 12V  <br>
   
 ## UV: Grove UV sensor  <br>
    pins(第二組): <br>
