@@ -5,9 +5,9 @@
    Can1: D5、D6、D7  <br>
    Can2: D8、D9、D10  <br>
    Can3: D11、D12、D13  <br>
-### blue LED  <br>
-    12V  <br>
-    relay --> D3  <br>
+   ### blue LED  <br>
+   12V <br>
+   relay: D3 <br>
   
 ## UV: Grove UV sensor  <br>
    pins(第二組): <br>
