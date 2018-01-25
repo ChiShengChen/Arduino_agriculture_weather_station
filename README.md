@@ -17,7 +17,7 @@
 ## Temperature、Humidity、Barometer: Grove BME280  <br>
    pins(第二組): <br>
    5V <br>
-   (for Arduino UNO) <br>
+  (for Arduino UNO) <br>
    A4(SDA)  <br>
    A5(SCL)  <br>
    
